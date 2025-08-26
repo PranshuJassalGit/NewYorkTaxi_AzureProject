@@ -61,8 +61,26 @@ and here we Goooooooooooooooooo............
 
 Now lets make for each activity bcs we have just fetched jan data now i want to parameterized the 01- of the file name so that i can just set the 01 part as variable and iterate
 
+Creating parameters
+<img width="963" height="359" alt="image" src="https://github.com/user-attachments/assets/2675bb21-2b08-474d-ae79-4fa889e3ec0c" />
 
+Creating expression
+<img width="906" height="859" alt="image" src="https://github.com/user-attachments/assets/ca846d7e-3f70-4d1c-bd11-4bafe17927ee" />
 
+Creating a For Each activity
+<img width="1919" height="776" alt="image" src="https://github.com/user-attachments/assets/2154dd22-fdc4-43d4-b425-f22c19d832a3" />
+
+Set sequencial and add the range for the loop
+<img width="1913" height="823" alt="image" src="https://github.com/user-attachments/assets/d43c5677-9d83-4067-b51d-1223ff597762" />
+
+Paste the copy activity inside the for each activity
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/1a99d856-a688-4b39-83ac-a6f156974346" />
+
+Connect and set the output of the for each to the source of the copy activity
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/5df3ee79-495a-4aeb-b624-99f74b376b48" />
+
+Here we go.....
+<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/4ebd5df6-601a-44b1-bf33-e7d9e7469ef8" />
 
 
 
