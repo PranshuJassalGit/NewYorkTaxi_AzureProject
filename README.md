@@ -82,6 +82,35 @@ Connect and set the output of the for each to the source of the copy activity
 Here we go.....
 <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/4ebd5df6-601a-44b1-bf33-e7d9e7469ef8" />
 
+Let's make the service principle that will act as intermidiate between databricks and azure gen
+
+Go to microsoft entra ID
+<img width="1894" height="691" alt="image" src="https://github.com/user-attachments/assets/688df175-221b-4105-98c2-530fb12373ab" />
+
+Make a new app registeration, we are doing this to connect our databricks
+<img width="1593" height="814" alt="image" src="https://github.com/user-attachments/assets/e58f9b70-bd14-40a8-b1af-740d1c8ecd19" />
+
+Create service principle
+<img width="1832" height="756" alt="image" src="https://github.com/user-attachments/assets/62e4bcff-f358-48ab-a535-e6580ceafc88" />
+
+add permission, storage blob containers
+<img width="1919" height="862" alt="image" src="https://github.com/user-attachments/assets/941efd0b-2243-4a51-9c17-db72c261dbe7" />
+
+Select pranshu service principle
+<img width="1903" height="860" alt="image" src="https://github.com/user-attachments/assets/98018241-9668-4162-9f3d-b7a585b7d4d1" />
+
+Setting up databricks workspace
+<img width="1149" height="864" alt="image" src="https://github.com/user-attachments/assets/fa22b987-a4d3-405f-93ab-2d9752f5e634" />
+<img width="1509" height="852" alt="image" src="https://github.com/user-attachments/assets/d24e8758-dc2e-48fe-868b-b38ae0009d7a" />
+
+Lets create compute , for creating the cluster
+<img width="1673" height="842" alt="image" src="https://github.com/user-attachments/assets/bd8e442b-4934-40a9-932f-eb307b80df16" />
+
+
+
+
+
+
 
 
 
