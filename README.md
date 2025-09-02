@@ -106,6 +106,16 @@ Setting up databricks workspace
 Lets create compute , for creating the cluster
 <img width="1673" height="842" alt="image" src="https://github.com/user-attachments/assets/bd8e442b-4934-40a9-932f-eb307b80df16" />
 
+Create a notebook
+<img width="1912" height="855" alt="image" src="https://github.com/user-attachments/assets/cd1e0680-14f1-4ed7-a59e-216185f1c72e" />
+
+Connecting databricks to delta lake
+<img width="1668" height="810" alt="image" src="https://github.com/user-attachments/assets/74cffee4-b99b-4861-89b5-824f928c220e" />
+
+Run the connection code
+<img width="1492" height="616" alt="image" src="https://github.com/user-attachments/assets/03d4fcb3-dbae-44e9-ad88-af52d2a6359d" />
+
+
 
 
 
