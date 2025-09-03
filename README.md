@@ -115,6 +115,18 @@ Connecting databricks to delta lake
 Run the connection code
 <img width="1492" height="616" alt="image" src="https://github.com/user-attachments/assets/03d4fcb3-dbae-44e9-ad88-af52d2a6359d" />
 
+Reading the trip data using recursive loookup
+<img width="1514" height="665" alt="image" src="https://github.com/user-attachments/assets/8b5275f6-5418-4b2d-8d9f-7ececb8f8bfb" />
+
+Transforming trip type data and loading it to silver layer
+<img width="1402" height="408" alt="image" src="https://github.com/user-attachments/assets/bb36fbce-3d65-467e-b2d7-639df4142119" />
+
+Loading 
+<img width="1481" height="254" alt="image" src="https://github.com/user-attachments/assets/332747e5-692f-4166-a5fc-06c421fb44d8" />
+
+
+
+
 
 
 
