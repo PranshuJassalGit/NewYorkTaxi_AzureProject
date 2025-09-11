@@ -200,6 +200,8 @@ Booooom here we goooooooooo,
 
 <img width="1082" height="672" alt="image" src="https://github.com/user-attachments/assets/d41f8554-e68c-4289-9735-377b492fd290" />
 
+Loaded
+<img width="1204" height="706" alt="image" src="https://github.com/user-attachments/assets/e6005cf2-e282-45b8-a9da-b5afab3396e8" />
 
 
 
