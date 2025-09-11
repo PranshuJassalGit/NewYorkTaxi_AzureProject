@@ -124,6 +124,70 @@ Transforming trip type data and loading it to silver layer
 Loading 
 <img width="1481" height="254" alt="image" src="https://github.com/user-attachments/assets/332747e5-692f-4166-a5fc-06c421fb44d8" />
 
+Creating a silver Notebook and making connection 
+<img width="1490" height="454" alt="image" src="https://github.com/user-attachments/assets/61bcb2c7-3b28-4464-90af-c6a1f3efba82" />
+
+Reading Trip type data from bronze layer
+<img width="1544" height="702" alt="image" src="https://github.com/user-attachments/assets/c3410307-289d-46f4-854f-f2938b8df1ba" />
+
+Reading trip zone data from bromze
+<img width="1543" height="711" alt="image" src="https://github.com/user-attachments/assets/7c6ae906-bb5c-4020-9793-2e60243a0e1a" />
+
+Creating trip type schema 
+<img width="1506" height="664" alt="image" src="https://github.com/user-attachments/assets/746da7b5-65fc-4b83-bad7-4e682d68e9c9" />
+
+Reading Trip Data
+<img width="1549" height="709" alt="image" src="https://github.com/user-attachments/assets/c4426651-88c3-4849-a455-227d0191d2ad" />
+
+Transforming Trip type data
+<img width="1514" height="529" alt="image" src="https://github.com/user-attachments/assets/cfd39a3e-ddd8-4178-939d-815d38b5e883" />
+
+Writing Trip type data on silver layer
+<img width="1516" height="250" alt="image" src="https://github.com/user-attachments/assets/5206830a-d77a-4e68-9cf0-ce28df1d6d1e" />
+
+Transforming Trip Zone
+<img width="1484" height="703" alt="image" src="https://github.com/user-attachments/assets/dc053e0e-aeac-4e0e-bc89-493e10ce7822" />
+
+Writing Trip zone to silver layer
+<img width="1536" height="265" alt="image" src="https://github.com/user-attachments/assets/e8013d7a-2188-4b28-9f21-8df5f5301208" />
+
+Transforming Trip data
+<img width="1490" height="697" alt="image" src="https://github.com/user-attachments/assets/aa69d905-d1df-401f-97fb-72900079b7ac" />
+
+Writing trip type into the silver layer
+<img width="1526" height="244" alt="image" src="https://github.com/user-attachments/assets/7bef10f8-9cf7-4eaf-a411-fe7a313e57a6" />
+
+
+###Creating Gold Layer
+
+Creating connection string
+<img width="1481" height="343" alt="image" src="https://github.com/user-attachments/assets/ba7a9b4d-9362-4ab3-b0e6-f14592691a5f" />
+
+Creating a database
+<img width="1458" height="420" alt="image" src="https://github.com/user-attachments/assets/386e336a-d2b7-4ab2-ad72-fb30374c8451" />
+
+Reading from silver layer trip zone and writing to gold
+<img width="1476" height="668" alt="image" src="https://github.com/user-attachments/assets/9220da45-83da-4729-8db9-2d0b3e9a4f95" />
+
+Running Gold table
+<img width="1508" height="554" alt="image" src="https://github.com/user-attachments/assets/5c974d79-37a9-4d8d-bfc0-d3bc2b95c607" />
+
+Reading Trip type data and writing to gold
+<img width="1479" height="628" alt="image" src="https://github.com/user-attachments/assets/06daade5-d40e-4bed-af3c-e0d42723df9f" />
+
+Reading trip zone and writing to gold
+<img width="1481" height="629" alt="image" src="https://github.com/user-attachments/assets/14f2332e-5e83-4678-b022-21072bc3f165" />
+
+Reading the trip data and writing to gold
+<img width="1485" height="660" alt="image" src="https://github.com/user-attachments/assets/d3933392-f6f0-4fda-a898-2df466492e35" />
+
+
+
+
+
+
+
+
 
 
 
