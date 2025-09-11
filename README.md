@@ -181,6 +181,31 @@ Reading trip zone and writing to gold
 Reading the trip data and writing to gold
 <img width="1485" height="660" alt="image" src="https://github.com/user-attachments/assets/d3933392-f6f0-4fda-a898-2df466492e35" />
 
+Now , lets connect to Power BI
+<img width="1116" height="662" alt="image" src="https://github.com/user-attachments/assets/30c5bfbe-f843-4a38-977b-10f4900b0f3f" />
+
+CLick on connection
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/c54dcff1-6d4b-4a61-9305-0b21200354ab" />
+
+Now open the file and go to the access token 
+<img width="1157" height="532" alt="image" src="https://github.com/user-attachments/assets/733a709a-2c97-4c3d-b748-0aaa5871926b" />
+
+Now create a access token , go to profile, setting developer and access token
+<img width="1558" height="789" alt="image" src="https://github.com/user-attachments/assets/9df0c267-59a1-41c1-94a9-a4e93871c867" />
+
+Paste token to the power BI
+<img width="995" height="422" alt="image" src="https://github.com/user-attachments/assets/b4e178d2-184d-4aba-91d3-50f2e4f5841e" />
+
+Booooom here we goooooooooo,
+
+<img width="1082" height="672" alt="image" src="https://github.com/user-attachments/assets/d41f8554-e68c-4289-9735-377b492fd290" />
+
+
+
+
+
+
+
 
 
 
